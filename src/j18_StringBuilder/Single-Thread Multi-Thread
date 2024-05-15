@@ -1,0 +1,22 @@
+
+    //Single-Threaded ve Multi-Threaded hangisi ne zaman tercih edilmelidir?
+
+    /*
+    Basitlik ve Öngörülebilirlik: Tek iş parçacığı, programın daha basit ve öngörülebilir olmasını sağlar.
+    Bu nedenle küçük ve basit uygulamalarda tek iş parçacığı kullanmak daha kolaydır.
+
+    Kaynak Kontrolü: Tek iş parçacığı, belirli kaynakları (örneğin, dosya erişimi) kontrol altında tutmayı daha kolaylaştırır.
+    Birden fazla iş parçacığı kullanmak, kaynakların paylaşılması ve senkronizasyon gerektirebilir, bu da daha karmaşık hale
+    gelebilir.
+
+    Performans Optimizasyonu: Bazı görevler tek iş parçacığı ile daha iyi çalışabilir. Özellikle, işlemci yoğun görevlerde
+    tek iş parçacığı daha basit bir yaklaşım sunabilir. Ayrıca, belirli işlerin sıralı olarak yapılması gerektiğinde tek
+    iş parçacığı kullanmak mantıklı olabilir.
+
+    Platform Bağımsızlık: Tek iş parçacığı, farklı işletim sistemlerinde ve platformlarda daha tutarlı bir davranış sağlar.
+    Birden fazla iş parçacığı kullanırken platforma bağımlı sorunlar ve davranış farklılıkları ortaya çıkabilir.
+
+    Veri Bütünlüğü: Tek iş parçacığı, veri bütünlüğünü korumak için daha kolay bir şekilde yönetilebilir.
+    Birden fazla iş parçacığı kullanırken, veri bütünlüğü sorunlarına dikkat etmek ve senkronizasyon mekanizmalarını
+    kullanmak gerekebilir.
+    */

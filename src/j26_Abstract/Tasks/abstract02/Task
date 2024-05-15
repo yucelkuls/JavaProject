@@ -1,0 +1,4 @@
+ maasHesapla(),maasBilgisi() abs meth. sigorta() concrete meth. bulunduran parent Personel class create edniz.
+ parent class inst. name variable bulundursun.
+
+ Isci ve IdariPersonel child class'ları create edip Runner class ile meth run ediniz.

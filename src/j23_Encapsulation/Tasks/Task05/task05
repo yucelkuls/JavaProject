@@ -1,0 +1,7 @@
+task->
+    Book class'ında valuelari girilen bookName ve authorName (String )-
+    -İki tane attributes(fields) oluşturunuz.
+    Book class'ını datahiding(encapsulated) yapınız. (Encapsulate)->pojo
+    BookRunner class'ın içine object  create edip print eden code create ediniz.
+
+ "Book name is BOOKNAME and Author is AUTHORNAME"

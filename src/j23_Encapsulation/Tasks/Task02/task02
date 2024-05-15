@@ -1,0 +1,14 @@
+
+        StudentRunner ve Student classları create ediniz
+        Student classı içinde;
+        String name(isim) ve int age(yaş)  variables(değişkenler) encapsulated ediniz
+
+        StudentRunner classın içinde;
+        girilen değerleri aşagıdaki gibi print eden code create ediniz
+        Örnek:
+        age 48'dir.
+        name Haluk'tur.
+
+        output
+        "Student name is Haluk"
+        "He is 48 years old"
